@@ -2,22 +2,22 @@
 
 Tech used: ReactJS, NodeJS, Express, Docker, Cheerio
 
-### The Problem
+## The Problem
 
 It is hard to find in-stock boutique mechanical keyboards in Europe, because there are few stores and **very** limited stock.
 
 This leaves users having to browse through several websites just to gather their options.
 
-### The solution
+## The solution
 
 This website congregates data about in-stock keyboard, mechanical switches, cases, and keycaps across EU websites.
 
-### Currently supports:
+## Currently supports:
 
 - [My Keyboard EU](https://mykeyboard.eu/catalogue/)
 - [KeyGem](https://keygem.store/)
 
-### Looking to support:
+## Looking to support:
 
 - [Candy Keys](https://candykeys.com/)
     : Stocks keyboards, switches, cases and keycaps.
