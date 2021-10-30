@@ -15,7 +15,9 @@ This website congregates data about in-stock keyboard, mechanical switches, case
 ## Currently supports:
 
 - [My Keyboard EU](https://mykeyboard.eu/catalogue/)
+    : Stocks keyboards, switches, cases and keycaps.
 - [KeyGem](https://keygem.store/)
+    : Stocks keyboards, switches, cases, PCBs and keycaps.
 
 ## Looking to support:
 
